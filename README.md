@@ -8,7 +8,7 @@ A fashion-forward landing page combining motion design and minimalism to deliver
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/AI/)
+[View Here](https://yourcode-jd.github.io/Clothora/)
 
 ---
 
